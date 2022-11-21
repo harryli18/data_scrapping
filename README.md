@@ -1,2 +1,2 @@
 # data_scrapping
-Scrap various Residential data online 
+Use beastifulsoup and Sellieum to scrap various Residential data online 
